@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css?family=Prociono');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+#h1, #h3 {
+	font-family: 'Prociono', serif;
+}
+p {
+	font-family: 'Poiret One', cursive;
+}
+.hello {
+  	background: url(../beenVerifiedChallenge/img/office.jpeg) no-repeat center center fixed; 
+  	background-size: cover;
+	/*display: block;
+	font: 3em;*/
+/*	width: 100%;
+*/	height: 28em;
+	padding: 62px 22px;
+	top: 25%;
+	left: 0;
+	font-size: 20px;
+}
+
+
+#navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  text-align: center;
+  color: white;
+  padding: 0 81px;
+  font: 20px "Trebuchet MS", Arial, sans-serif;
+}
+
+#navbar nav a {
+  display: inline-block;
+  width: 100px;
+  margin: 0;
+  padding: 22px 0;
+  /*text-transform: uppercase;*/
+  color: white;
+  /*text-align: center;*/
+  text-decoration: none;
+  font: 20px "Trebuchet MS", Arial, sans-serif;
+}
+
+#navbar nav a:hover {
+  color: rebeccapurple;
+  }
+
+#navbar nav a.menu-icon {
+  display: none;
+}
+
+.world {
+	background: rgba(75, 32, 168, 0.5);
+	width: 100%;
+	padding: 151px;
+	color: white;
+}
+
+button {
+	background: rebeccapurple;
+	color: white;
+}
+.p {
+	padding: 0 103px;
+}
+.redefining {
+	background:rebeccapurple; /*rgb(75, 32, 168);*/
+	color: white;
+	padding: 50px 150px 183px;
+}
+.layers {
+	width: 500px;
+	height: 478px;
+	background: rebeccapurple; /*rgb(75, 32, 168);*/
+}
+.white{
+	color: white;
+}
+.purple{
+	color: rebeccapurple;
+}
+#but{
+	background: rebeccapurple; 
+	color: white; 
+	padding: 10px 17px;
+	font-size: inherit;
+	border-color: grey;
+}
+#butt {
+	background: rgb(26,26,26);
+	color: grey; 
+	padding: 10px 17px;
+	font-size: inherit;
+	margin-left: 10px;
+}
+.services{
+	background: black;
+	color: grey;
+	padding: 100px;
+}
+.serve{
+	padding-bottom: 65px;
+}
+.contpar {
+	padding: 34px 223px;
+
+}
+.facts{
+	padding-bottom: inherit;
+}
+.team {
+	padding: 77px 100px;
+}
+.img-circle{
+	width: 180px; height: 158px;
+}
+.input{
+	color: white;
+	margin: 10px;
+}
+.nmg{
+	background:rebeccapurple; /*rgb(75, 32, 168);*/
+	color: white;
+}
+/*svg {
+	padding: 0 15px;
+}*/
+.contacts{
+	background: rgb(26,26,26); 
+	color: grey;
+	height: 475px;
+	padding: 40px; 
+	padding-bottom: 60px;
+}
+.contact{
+	padding: 0 83px;
+}
+#mid-col{
+	padding-left: 200px;
+}
+footer{
+	background: black;
+	color: grey;
+	padding: 50px 116px;
+}
+textarea{
+	height: 25px;
+}
+.form-contro{
+	display: block;
+    width: 400px;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: rgb(26,26,26); 
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /*-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);*/
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    /*-webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;*/
+    /*-o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;*/
+    /*transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;*/
+}

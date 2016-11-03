@@ -1,0 +1,147 @@
+@media only screen and (max-width: 1030px){
+	.redefining {
+	    padding: 50px 99px 107px;
+	}
+	.layers {
+	    width: 426px;
+	    height: 455px;
+	}
+	.contpar {
+	    padding: 13px 93px;
+	}
+	.form-contro{
+	    width: 245px;
+	}
+	#mid-col {
+	    padding-left: 84px;
+	}
+	.world {
+		padding: 134px;
+	}
+}
+
+@media only screen and (max-width: 770px) {
+	.form-contro{
+	    /*width: 200px;*/
+	    height: 44px;
+	    padding: 6px 12px;
+	}
+	.world {
+		padding: 117px;
+	}
+
+	.contact {
+	    padding: 0 1px;
+	}
+	/*.contpar {
+	    padding: 10px 140px;
+	}*/
+	.contacts{
+	    height: 580px;
+	}
+	.layers {
+	    width: 392px;
+	    height: 431px;
+	}
+	/*#mid-col{
+		padding-left: 16px;
+	}*/
+}
+@media only screen and (max-width: 430px) {
+	.redefining {
+	    padding: 32px 34px 114px;
+	}
+	.layers {
+		width: 340px;
+		height: 318px;
+	}
+	.world {
+	    padding: 46px;
+	}
+	.team {
+	    padding: 77px 60px;
+	}
+	.facts {
+     padding-bottom: 0; 
+	}
+	.img-circle {
+	    width: 162px;
+	    height: 149px;
+	}
+	.services {
+	    padding: 40px;
+	}
+	.serve {
+	    padding-bottom: 21px;
+	}
+	.contpar {
+	    padding: 4px 5px;
+	}
+	.contacts {
+	    height: 832px;
+	    padding-left: 65px;
+	}
+	#mid-col {
+	    padding-left: 15px;
+	}
+	.form-contro {
+	    width: 257px;
+	}
+	footer {
+	    padding: 50px 58px;
+	}
+
+	#navbar nav a.menu-icon {
+    display: block;
+    float: right;
+    font-size: 1.5em;
+    width: auto;
+  }
+  #navbar {
+  	position: fixed;
+	background: rgba(89, 87, 105, 0.9);
+  }
+  #navbar nav a:hover {
+    color: blueviolet;
+  }
+  #navbar nav a {
+    display: inline;
+    width: 100%;
+    border-left: 0;
+    /*border-top: 1px dotted #ccc;*/
+    text-align: left;
+    padding: 10px;
+    /*color: black;*/
+    text-decoration: none;
+    clear: both;
+  }
+}
+
+@media only screen and (max-width: 340px){
+	.layers {
+	    width: 271px;
+	    height: 274px;
+	}
+	.world {
+	    padding: 24px;
+	}
+	.hello {
+		font-size: 12px;
+	}
+	#mid-col {
+	    padding-left: 17px;
+	}
+	#h3 {
+	    font-size: 17px;
+	}
+	.contacts {
+	    height: 883px;
+	    padding-left: 65px;
+	}
+	#navbar nav a.menu-icon {
+		font-size: 1.2em;
+	}
+	.form-contro {
+	    width: 218px;
+	}
+}
