@@ -8,7 +8,7 @@ p {
 	font-family: 'Poiret One', cursive;
 }
 .hello {
-  	background: url(beenVerifiedChallenge/img/office.jpeg) no-repeat center center fixed; 
+  	background: url(../img/office.jpeg) no-repeat center center fixed; 
   	background-size: cover;
 	/*display: block;
 	font: 3em;*/
