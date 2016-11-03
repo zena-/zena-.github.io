@@ -61,30 +61,30 @@ p {
 }
 
 button {
-	background: rebeccapurple;
+	background: rgb(75, 32, 168);
 	color: white;
 }
 .p {
 	padding: 0 103px;
 }
 .redefining {
-	background:rebeccapurple; /*rgb(75, 32, 168);*/
+	background:rgb(75, 32, 168);
 	color: white;
 	padding: 50px 150px 183px;
 }
 .layers {
 	width: 500px;
 	height: 478px;
-	background: rebeccapurple; /*rgb(75, 32, 168);*/
+	background: rgb(75, 32, 168); /*rgb(75, 32, 168);*/
 }
 .white{
 	color: white;
 }
 .purple{
-	color: rebeccapurple;
+	color: rgb(75, 32, 168);
 }
 #but{
-	background: rebeccapurple; 
+	background: rgb(75, 32, 168); 
 	color: white; 
 	padding: 10px 17px;
 	font-size: inherit;
@@ -123,7 +123,7 @@ button {
 	margin: 10px;
 }
 .nmg{
-	background:rebeccapurple; /*rgb(75, 32, 168);*/
+	background:rgb(75, 32, 168); 
 	color: white;
 }
 /*svg {

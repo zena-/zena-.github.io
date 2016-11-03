@@ -102,7 +102,7 @@
 	background: rgba(89, 87, 105, 0.9);
   }
   #navbar nav a:hover {
-    color: blueviolet;
+    color: rgb(75, 32, 168);
   }
   #navbar nav a {
     display: inline;
